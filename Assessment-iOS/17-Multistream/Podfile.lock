@@ -1,0 +1,46 @@
+PODS:
+  - AGEVideoLayout (1.0.4)
+  - AgoraRtcEngine_iOS (3.6.2):
+    - AgoraRtcEngine_iOS/AINS (= 3.6.2)
+    - AgoraRtcEngine_iOS/AV1Dec (= 3.6.2)
+    - AgoraRtcEngine_iOS/ContentInspect (= 3.6.2)
+    - AgoraRtcEngine_iOS/FullAudioFormat (= 3.6.2)
+    - AgoraRtcEngine_iOS/JND (= 3.6.2)
+    - AgoraRtcEngine_iOS/ReplayKit (= 3.6.2)
+    - AgoraRtcEngine_iOS/ROIEnc (= 3.6.2)
+    - AgoraRtcEngine_iOS/RtcBasic (= 3.6.2)
+    - AgoraRtcEngine_iOS/SuperResolution (= 3.6.2)
+    - AgoraRtcEngine_iOS/VideoPreprocess (= 3.6.2)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 3.6.2)
+  - AgoraRtcEngine_iOS/AINS (3.6.2)
+  - AgoraRtcEngine_iOS/AV1Dec (3.6.2)
+  - AgoraRtcEngine_iOS/ContentInspect (3.6.2)
+  - AgoraRtcEngine_iOS/FullAudioFormat (3.6.2)
+  - AgoraRtcEngine_iOS/JND (3.6.2)
+  - AgoraRtcEngine_iOS/ReplayKit (3.6.2)
+  - AgoraRtcEngine_iOS/ROIEnc (3.6.2)
+  - AgoraRtcEngine_iOS/RtcBasic (3.6.2)
+  - AgoraRtcEngine_iOS/SuperResolution (3.6.2)
+  - AgoraRtcEngine_iOS/VideoPreprocess (3.6.2)
+  - AgoraRtcEngine_iOS/VirtualBackground (3.6.2)
+  - AgoraRtm_iOS (1.4.10)
+
+DEPENDENCIES:
+  - AGEVideoLayout
+  - AgoraRtcEngine_iOS
+  - AgoraRtm_iOS
+
+SPEC REPOS:
+  trunk:
+    - AGEVideoLayout
+    - AgoraRtcEngine_iOS
+    - AgoraRtm_iOS
+
+SPEC CHECKSUMS:
+  AGEVideoLayout: a0122fa3fde4fac227b08da8bee0c3fe8de1682c
+  AgoraRtcEngine_iOS: 5bf5d2bb6669a6f3606716a02f3fb3ac58708f25
+  AgoraRtm_iOS: 95e7070466f42a6494435a7f39fd2b13fc143cbf
+
+PODFILE CHECKSUM: 18d3d9e86ffab0402b7cc20fe58d9858b28371a4
+
+COCOAPODS: 1.11.2
